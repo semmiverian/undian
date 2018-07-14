@@ -1,0 +1,17 @@
+@tailwind preflight;  
+@tailwind utilities;
+
+
+.header {
+  text-align: center;
+  margin: 0 auto
+}
+
+body {
+  /* font-family: 'Proxima Nova', sans-serif; */
+  @apply bg-grey-lightest font-sans
+  
+}
+
+
+
